@@ -8,3 +8,5 @@ To commit files: <br>
 git commit -m "my commit message"
 
 
+To push up to github: <br>
+git push origin master
